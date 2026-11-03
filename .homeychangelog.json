@@ -49,5 +49,41 @@
   },
   "3.1.5": {
     "en": "Fixed an issue where it was not possible to pair 2 dryer's."
+  },
+  "3.2.0": {
+    "en": "Added Cooktop & Dishwasher."
+  },
+  "3.2.1": {
+    "en": "Updated icons & fixed an issue where dishwasher When-cards would not work."
+  },
+  "3.2.2": {
+    "en": "Updated icons."
+  },
+  "3.3.0": {
+    "en": "Added 'The Freestyle'."
+  },
+  "3.4.0": {
+    "en": "Added Samsung Soundbar"
+  },
+  "3.5.0": {
+    "en": "Added Samsung Microwave."
+  },
+  "3.6.0": {
+    "en": "Added Flow When-cards for the Microwave."
+  },
+  "3.6.1": {
+    "en": "Fixed an issue where 'The Microwave status has changed' Flow card would not start."
+  },
+  "3.6.2": {
+    "en": "Make registering for notifications optional."
+  },
+  "3.7.0": {
+    "en": "Added Robot Vacuum. Added polling when Server-Sent Events did not work."
+  },
+  "4.0.0": {
+    "en": "Switched from Server-Sent Events to Webhooks."
+  },
+  "4.0.1": {
+    "en": "Switched from Server-Sent Events to Webhooks."
   }
 }
